@@ -35,7 +35,7 @@ public class AsagaoProcessor {
             // definir la command
            command.setCandyBox(candyBoxes);
         } else {
-         System.out.println("Cette commande n'est pas possible entre 6h et midi, desolé !!! ");
+         System.out.println("Cette commande  possible entre 6h et midi, desolé !!! ");
         }
         return command;
 
